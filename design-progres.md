@@ -8,3 +8,16 @@
    ![Picture](/assets/contact-menu.png)
 ## Acces
 You can acces this figma file on [figma.file](https://www.figma.com/design/5eP4DZjEx5lwzqpa7ec8iH/Address-book?node-id=0-1&t=2WkOOu0pf7d44WBI-1)
+
+# UI tailwind progress
+## Initial display
+- ### Create some heading text and sign up feature
+   ![Picture](/assets/initial-display.png)
+## Contact Menu
+- ### Create some component like table, button search, and button add
+   ![Picture](/assets/contact-menu-component.png)
+
+# JavaScript function
+## form feature
+- ### EventListener button to create form element
+   ![Picture](/assets/form-action-data.png)
